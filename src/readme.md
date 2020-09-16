@@ -9,11 +9,11 @@
 * License: GPLv2 or later
 * License URI: <http://www.gnu.org/licenses/gpl-2.0.html>
 
-Create, host and manage multiple products documentations.
+Create, host and manage multiple products documentation.
 
 ## Description
 
-Online documentation for your multiple products. Create, host and manage documentations in your WordPress site.
+Online documentation for your multiple products. Create, host and manage documentation in your WordPress site.
 
 ### Links
 
@@ -59,10 +59,10 @@ If you need to initialize some JS after ajax loaded, you may use **DocsPress > S
 
 ## Screenshots
 
-1. Documentations Archive
+1. Documentation Archive
 2. Documentation
-3. Documentations Admin
-4. Documentations Admin Classic UI
+3. Documentation Admin
+4. Documentation Admin Classic UI
 
 ## Changelog
 
@@ -107,7 +107,7 @@ If you need to initialize some JS after ajax loaded, you may use **DocsPress > S
 * added option to hide feedback count
 * added support for anchor links in content headings
 * added helper styles for default wp themes
-* added option to show all parent documentations in sidebar (if you don't need multiple documentations)
+* added option to show all parent documentation in sidebar (if you don't need multiple documentation)
 * added label in breadcrumbs archive page from selected archive page title
 * added option to disable comments on single doc
 * added scroll to top when ajax loading doc

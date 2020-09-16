@@ -9,7 +9,7 @@
 <div class="wrap" id="docspress-app">
     <h1>
         <?php
-        echo esc_html__( 'Documentations', '@@text_domain' );
+        echo esc_html__( 'Documentation', '@@text_domain' );
         ?>
         <a class="page-title-action" href="#" v-on:click.prevent="addDoc">
             <?php echo esc_html__( 'Add Doc', '@@text_domain' ); ?>
@@ -92,7 +92,7 @@
     <div class="no-docspress not-loaded" v-show="!docs.length">
         <?php
         // translators: %s - link.
-        printf( esc_html__( 'No documentations has been found. Perhaps %s?', '@@text_domain' ), '<a href="#" v-on:click.prevent="addDoc">' . esc_html__( 'create one', '@@text_domain' ) . '</a>' );
+        printf( esc_html__( 'No documentation has been found. Perhaps %s?', '@@text_domain' ), '<a href="#" v-on:click.prevent="addDoc">' . esc_html__( 'create one', '@@text_domain' ) . '</a>' );
         ?>
     </div>
 

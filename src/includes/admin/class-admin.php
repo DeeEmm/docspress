@@ -132,8 +132,8 @@ class DocsPress_Admin {
         );
         add_submenu_page(
             '@@text_domain',
-            __( 'Documentations', '@@text_domain' ),
-            __( 'Documentations', '@@text_domain' ),
+            __( 'Documentation', '@@text_domain' ),
+            __( 'Documentation', '@@text_domain' ),
             'publish_posts',
             '@@text_domain',
             array( $this, 'page_index' )

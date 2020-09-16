@@ -317,7 +317,7 @@ class DocsPress {
             'singular_name'      => _x( 'Doc', 'Post Type Singular Name', '@@text_domain' ),
             'menu_name'          => __( 'Documentation', '@@text_domain' ),
             'parent_item_colon'  => __( 'Parent Doc', '@@text_domain' ),
-            'all_items'          => __( 'All Documentations', '@@text_domain' ),
+            'all_items'          => __( 'All Documentation', '@@text_domain' ),
             'view_item'          => __( 'View Documentation', '@@text_domain' ),
             'add_new_item'       => __( 'Add Documentation', '@@text_domain' ),
             'add_new'            => __( 'Add New', '@@text_domain' ),
